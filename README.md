@@ -1,4 +1,4 @@
-  ## Oie me chamo Caio 👋
+  ## Oie, me chamo Caio 👋
 
 
 - 🌱 Estudante de desenvolvimento Web
