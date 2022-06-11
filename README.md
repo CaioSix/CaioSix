@@ -2,7 +2,8 @@
 
 
 Sou Desenvolvedor Web FullStack, adoro a tecnologia e tudo o que ela pode nos proporcionar.
-Atualmente estou estudando Engenharia de Software.
+Cursando Engenharia de Software.
+Atualmente estou estudando C# e .Net.
 
 
 
