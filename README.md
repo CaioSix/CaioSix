@@ -1,11 +1,6 @@
   ## Oie, me chamo Caio 👋
 
 
-Sou Desenvolvedor Web FullStack, adoro a tecnologia e tudo o que ela pode nos proporcionar.
-Cursando Engenharia de Software.
-Atualmente estou estudando .Net 
-
-
 
 <div align="center">
   <a href="https://github.com/CaioSix">
