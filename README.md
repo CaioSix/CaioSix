@@ -1,4 +1,7 @@
   ## Oie, me chamo Caio 👋
+  Atualmente estou cursando Engenharia da Computação pela UNIVESP
+  Atuo como analista NOC at Elven Works
+  Sempre disposto a ensinar e aprender
 
 
 
@@ -31,7 +34,7 @@
 <div> 
   <a href="https://instagram.com/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:caio-cavalcanti@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-cavalcanti-17b50b13a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/caiohfcavalcanti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
  
