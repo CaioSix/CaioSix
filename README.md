@@ -3,7 +3,6 @@
 🎓 Atualmente cursando **Engenharia da Computação pela UNIVESP**
 🚀 **SRE na Elven Works**
 ☁️ Apaixonado por **Cloud, DevOps, Kubernetes e Infraestrutura**
-🔐 Também estudo **Cybersecurity / Blue Team**
 
 Tenho experiência com desenvolvimento **Back-End**, principalmente com  **NODE**, e atualmente estou direcionando minha carreira para **Cloud, SRE e infraestrutura**, trabalhando com tecnologias como **AWS, Kubernetes, Docker, Linux, Terraform e observabilidade**.
 
